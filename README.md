@@ -27,7 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pvreboucas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pvreboucas" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pvreboucas" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pvreboucas" height="30" width="40" style="border-radius: 25px;"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -53,7 +53,7 @@
 
 <p align="left">
   <h5 align="left">Most Used Languages</h5>
-  <a href="https://ionicabizau.github.io/github-profile-languages/api.html?pvreboucas" target="_blank"><img src="https://www.clipartmax.com/png/middle/351-3511675_icon-infographics-in-svg-chart-icon.png" alt="most used languages" witdh="200" height="200"/></a>
+  <a href="https://ionicabizau.github.io/github-profile-languages/api.html?pvreboucas" target="_blank"><img src="https://upload-icon.s3.amazonaws.com/uploads/icons/png/18276491831553237330-512.png" alt="most used languages" witdh="250" height="250"/></a>
 </p>
 
 <!-- original
