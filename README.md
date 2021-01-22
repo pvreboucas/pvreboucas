@@ -51,10 +51,9 @@
 
 <h3 align="left">Stats:</h3>
 
-<p align="left">
-  <h5 align="left">Most Used Languages</h5>
-  <a href="https://ionicabizau.github.io/github-profile-languages/api.html?pvreboucas" target="_blank"><img src="https://upload-icon.s3.amazonaws.com/uploads/icons/png/18276491831553237330-512.png" alt="most used languages" witdh="250" height="250"/></a>
-</p>
+ <h5 align="left">Most Used Languages</h5>
+ <a href="https://ionicabizau.github.io/github-profile-languages/api.html?pvreboucas" target="_blank"><img src="https://upload-icon.s3.amazonaws.com/uploads/icons/png/18276491831553237330-512.png" alt="most used languages" witdh="250" height="250"/></a>
+
 
 <!-- original
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pvreboucas&show_icons=true&locale=en&layout=compact" alt="pvreboucas" /></p> -->
