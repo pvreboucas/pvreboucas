@@ -4,13 +4,6 @@
 <h1 align="center">Hi 👋, I'm Paulo Victor</h1>
 <h3 align="center">An IT Analyst and developer from Brazil Currently working at <a href = "https://www.ifsc.edu.br/"> Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina </a> Developing Tools as IT Analyst ⌨🖥🖱 for Quality Public Education👨‍🏫!</h3>
 
-<!--
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pvreboucas&label=Profile%20views&color=0e75b6&style=flat" alt="pvreboucas" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pvreboucas" alt="pvreboucas" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
--->
 
 - 🔭 I’m currently working on **Java systens, Wordpress, Moodle and Liferay**
 
@@ -56,16 +49,22 @@
   <a href="https://hibernate.org/" target="_blank"> <img src="https://seeklogo.com/images/H/hibernate-logo-8C95C75A24-seeklogo.com.png" alt="hibernate" width="40" height="40"/> </a></p>
     <a href="https://www.primefaces.org/" target="_blank"> <img src="https://www.logicbig.com/tutorials/misc/primefaces/images/primefaces.png" alt="primefaces" width="40" height="40"/> </a></p>
 
-<!--
+
 <p><img align="left" src="https://github-readme-stats-ten-dusky.vercel.app/api/top-langs?username=pvreboucas&show_icons=true&locale=en&layout=compact" alt="pvreboucas" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-ten-dusky.vercel.app/api?username=pvreboucas&show_icons=true&locale=en" alt="pvreboucas" /></p>
--->
+
 <!-- original
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pvreboucas&show_icons=true&locale=en&layout=compact" alt="pvreboucas" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pvreboucas&show_icons=true&locale=en" alt="pvreboucas" /></p>
 -->
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pvreboucas&" alt="pvreboucas" /></p> -->
 
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pvreboucas&" alt="pvreboucas" /></p> 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pvreboucas&label=Profile%20views&color=0e75b6&style=flat" alt="pvreboucas" /> </p>
+
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pvreboucas" alt="pvreboucas" /></a> </p> -->
+
+<!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
