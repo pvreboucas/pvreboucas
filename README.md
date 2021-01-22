@@ -56,10 +56,11 @@
   <a href="https://hibernate.org/" target="_blank"> <img src="https://seeklogo.com/images/H/hibernate-logo-8C95C75A24-seeklogo.com.png" alt="hibernate" width="40" height="40"/> </a></p>
     <a href="https://www.primefaces.org/" target="_blank"> <img src="https://www.logicbig.com/tutorials/misc/primefaces/images/primefaces.png" alt="primefaces" width="40" height="40"/> </a></p>
 
+<!--
 <p><img align="left" src="https://github-readme-stats-ten-dusky.vercel.app/api/top-langs?username=pvreboucas&show_icons=true&locale=en&layout=compact" alt="pvreboucas" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-ten-dusky.vercel.app/api?username=pvreboucas&show_icons=true&locale=en" alt="pvreboucas" /></p>
-
+-->
 <!-- original
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pvreboucas&show_icons=true&locale=en&layout=compact" alt="pvreboucas" /></p>
 
