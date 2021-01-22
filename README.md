@@ -1,8 +1,9 @@
 <!--
 **pvreboucas/pvreboucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile ⚡. -->
 
+<h2 align="center"><a href="/README_pt-BR.md">Português Brasileiro</a></h2>
 <h1 align="center">Hi 👋, I'm Paulo Victor</h1>
-<h3 align="center">An IT Analyst and developer from Brazil Currently working at <a href = "https://www.ifsc.edu.br/"> Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina </a> Developing Tools as IT Analyst ⌨🖥🖱 for Quality Public Education👨‍🏫!</h3>
+<h3 align="center">An IT Analyst and developer from Brazil Currently working at <a href = "https://www.ifsc.edu.br/"> Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina </a> Developing Tools ⌨🖥🖱 for Quality Public Education👨‍🏫!</h3>
 
 
 - 🔭 I’m currently working on **Java systens, Wordpress, Moodle and Liferay**
