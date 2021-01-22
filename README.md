@@ -3,7 +3,7 @@
 <!--
 **pvreboucas/pvreboucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile ⚡. -->
 
-Currently working at [Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina](https://www.ifsc.edu.br/) developing tools as IT Analyst for quality public education!
+Currently working at [Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina](https://www.ifsc.edu.br/) developing tools as IT Analyst ⌨🖥🖱 for quality public education!
 
 - 🔭 I’m currently working on Java systens, Wordpress, Moodle and Liferay; 
 - 🌱 I’m currently learning about JavaScript frameworks, DevOps Culture, Docker and REST API;
@@ -13,3 +13,5 @@ Currently working at [Instituto Federal de Educação, Ciência e Tecnologia de 
 - 📫 How to reach me: [my e-mail](mailto:pvreboucas@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun Fact: I was born in Paris of the tropics
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pvreboucas&layout=compact)](https://github.com/pvreboucas/github-readme-stats)
