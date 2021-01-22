@@ -14,4 +14,4 @@ Currently working at [Instituto Federal de Educação, Ciência e Tecnologia de 
 - 😄 Pronouns: He/Him
 - ⚡ Fun Fact: I was born in Paris of the tropics
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pvreboucas&layout=compact)](https://github.com/pvreboucas/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pvreboucas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
