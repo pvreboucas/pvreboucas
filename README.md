@@ -56,8 +56,6 @@
   <a href="https://ionicabizau.github.io/github-profile-languages/api.html?pvreboucas" target="_blank"><img src="https://www.clipartmax.com/png/middle/351-3511675_icon-infographics-in-svg-chart-icon.png" alt="most used languages" witdh="200" height="200"/></a>
 </p>
 
-<p><iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?pvreboucas" frameborder="0"></iframe></p>
-
 <!-- original
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pvreboucas&show_icons=true&locale=en&layout=compact" alt="pvreboucas" /></p> -->
 
