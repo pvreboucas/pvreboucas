@@ -8,11 +8,11 @@
 
 - 🔭 Atualmente estou trabalhando com **Sistemas Java, Wordpress, Moodle and Liferay**
 
-- 🌱 Atualmente estou aprendendo **about JavaScript frameworks, DevOps Culture, Docker and REST API**
+- 🌱 Atualmente estou aprendendo **sobre tecnologias Front-end e cultura DevOps**
 
-- 👯 Procurando colaborar com projetos **web or mobile project**
+- 👯 Procurando colaborar com projetos **Projetos Web ou Mobile**
 
-- 🤝 Procurando ajuda com **Latex, Moodle, Liferay, Flutter and React Native**
+- 🤝 Procurando ajuda com **Latex, Moodle e Liferay**
 
 <!-- - 👨‍💻 All of my projects are available at [teste](teste) -->
 
