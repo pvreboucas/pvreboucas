@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Java systens, Wordpress, Moodle and Liferay**
 
-- 🌱 I’m currently learning **about JavaScript frameworks, DevOps Culture, Docker**
+- 🌱 I’m currently learning **about Front-end Technologies, DevOps Culture**
 
 - 👯 I’m looking to collaborate on **web or mobile project**
 
